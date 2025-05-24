@@ -1,5 +1,11 @@
 # API Usage Dashboard
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLoQIStar%2Fapi-usage-dashboard)
+
+> 🔗 **GitHub Repository:** [https://github.com/LoQIStar/api-usage-dashboard](https://github.com/LoQIStar/api-usage-dashboard)
+> 
+> 🚀 **Live Demo:** [https://api-usage-dashboard-fs0i0akzq-lab24-dev.vercel.app](https://api-usage-dashboard-fs0i0akzq-lab24-dev.vercel.app)
+
 A comprehensive dashboard for monitoring API usage across multiple AI model providers. Track your consumption, manage budgets, and receive early warnings before hitting your limits.
 
 ## 🚀 Features
